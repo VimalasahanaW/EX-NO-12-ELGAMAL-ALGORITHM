@@ -76,7 +76,8 @@ int main() {
 
 ## Output:
 
-<img width="667" height="272" alt="image" src="https://github.com/user-attachments/assets/bd855ed7-3a02-4279-b4f4-872a836220f6" />
+<img width="550" height="329" alt="image" src="https://github.com/user-attachments/assets/0045ad8b-4941-4473-985a-3547dd90d004" />
+
 
 ## Result:
 The program is executed successfully.
